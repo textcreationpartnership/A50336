@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lawfulness of taking the new oaths asserted</title>
+            <author>Maurice, Henry, 1648-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50336</idno>
+            <idno type="STC">Wing M1364</idno>
+            <idno type="STC">ESTC R16133</idno>
+            <idno type="EEBO-CITATION">13354878</idno>
+            <idno type="OCLC">ocm 13354878</idno>
+            <idno type="VID">99226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lawfulness of taking the new oaths asserted</title>
+                  <author>Maurice, Henry, 1648-1691.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Mills, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Maurice.  Cf. BLC.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99226:1"/>
+            <pb facs="tcp:99226:1"/>
+            <p>THE LAWFULNESS Of Taking the <hi>New Oaths</hi> ASSERTED.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Mills,</hi> and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99226:2"/>
+            <pb facs="tcp:99226:2"/>
+            <head>
+               <hi>The Lawfulneſs</hi> Of Taking the New Oaths, &amp;c.</head>
+            <p>THough our late Common Danger united us all in hearty Deſires of Deliverance, yet when thoſe Deſires are granted, we are ſo unfortunate as to divide again about the Methods of ſecuring that Bleſſing: We all agreed, That upon the late King's withdrawing we were left without Government, or elſe, Why was the Government ſeized? It was then thought not only neceſſary but lawful to put the Supreme Admi<g ref="char:EOLhyphen"/>niſtration into his hand, who had been the Inſtrument of our Deliverance; and therefore the Prince was deſired to take it on him: We generally believed a further Settlement neceſſary, and that a Conven<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:99226:3"/>was the beſt way to make that Settlement, otherwiſe, Why was a Convention adviſed? Or, Why were the Members ſo unanimouſly Choſen? But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they met<g ref="char:punc">▪</g> and happened to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with<g ref="char:EOLhyphen"/>out Scruple or Regret, began then to fly off and grow diſcontented: Now ſince all the People vir<g ref="char:EOLhyphen"/>tually or actually choſe their Repreſentatives, or ſate there in their own Right, or by virtue of this Election, it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to me, that all Perſons did refer this Matter to the Arbitration of this Convention, and are obliged to ſubmit to the major Vote of this Aſſembly, which were Judges of their own Chooſ<g ref="char:EOLhyphen"/>ing: And if we conſider how various, and how poſitive, particular<g ref="char:punc">▪</g> Men and Partys were in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Opinions of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to ſettle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, we ſhall conclude there was no way to compoſe us, but by leaving it to our Repreſentatives to adjuſt, for other<g ref="char:EOLhyphen"/>wiſe we muſt have had an eternal Squabble, and no ſetled Government at all: Some were for Treating with, and Reſtoring King <hi>James,</hi> and educating the <hi>Prince</hi> of <hi>Wales</hi> a Proteſtant; others for a Regent with Royal Power; others for Crowning the <hi>Prince</hi> of <hi>Orange</hi> alone, ſome for Crowning the Queen alone, and ſome for a Common-wealth: Now in this va<g ref="char:EOLhyphen"/>riety of Opinions, whatever way the Convention had taken, many would have been diſguſted that their Method was rejected; wherefore, though ſome are diſſatisfyed with the Courſe which was approved by the major. Vote, yet if ſettlement were neceſſary, and this referring it to the deciſion of a Convention the only way to procure it, then all Perſons ſeem oblig'd to ſubmit to the way they have choſen.</p>
+            <p>
+               <pb n="3" facs="tcp:99226:3"/>But they ſay:</p>
+            <p>
+               <hi>The Decree is unjuſt, becauſe it alters the Suc<g ref="char:EOLhyphen"/>ceſſion, and injures the<g ref="char:punc">▪</g> Title of both the Princeſſes, to which, being ſinful, they cannot Conſent.</hi>
+            </p>
+            <p>We Anſwer, The Princeſs who is generally be<g ref="char:EOLhyphen"/>liev'd the Right Heir, is made actual Queen, and the publick Acts are in her Name; but her Mo<g ref="char:EOLhyphen"/>deſty and Prudence is ſuch, That the deemed her<g ref="char:EOLhyphen"/>ſelf unfit in this juncture to manage the Supreme Power alone, and therefore by the Conſent of her ſelf and her Siſter, the Prince was joined in the Ti<g ref="char:EOLhyphen"/>tle, and truſted with the Supreme Adminiſtration for his Life only: Now conſidering his fitneſs for this place, and his high Merit, both as to the Prin<g ref="char:EOLhyphen"/>ceſſes, in reſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing their Title from a deſign'd and fi<g ref="char:EOLhyphen"/>nal Defeat, and as to the People of <hi>England,</hi> in de<g ref="char:EOLhyphen"/>livering their Religion and Laws from an intended Subverſion, we cannot think it very unreaſonable to requite this unparallell'd Service with the higheſt Perſonal Reward, eſpecially, ſince it ceaſes with his Life, and then returns into the old Channel: It was as ſmall a Deviation from the Right Line, as the Caſe would bear, which Caſe was ſo extraordinary, That ſince the like Circumſtances will ſcarce ever happen again, there is no great danger that this can be made a Precedent: It was more irregular in that Convention, which while the Lady <hi>Elizabeth,</hi> the true Heir of the Crown was living, declared <hi>Henry</hi> the Seventh King, without joining her in the Title, or taking Notice of her Right; yet all the Nation
+<pb n="4" facs="tcp:99226:4"/>ſware Allegiance to him before his Marrying that La<g ref="char:EOLhyphen"/>dy, and he is to this day owned a Lawful King, and his Laws are ſtill in force: But here the Right Heir is declared Queen, and Allegiance ſworn to her, and the Prince however is King, <hi>de facto,</hi> and it is from him we all principally expect Protection, and therefore he may, and muſt expect Allegiance from us, even though his Title in our opinion be not without Exceptions. We know the <hi>Jews</hi> were to ſeek the Peace of that Government, by which they were made Captives, and to pray for it; and the Primitive Chriſtians enquired not whether their Em<g ref="char:EOLhyphen"/>perours were ſet up by the Sword, or the Senate, but prayed for them, and were faithful to them, when they were ſet up without any ſcrutiny into their Title: Beſides, if there were any Injuſtice in this, thoſe Members of the Convention who diſſen<g ref="char:EOLhyphen"/>ted, are clear of the ſuppoſed Guilt, and have done all in their power to hinder it. But being over-rul'd, they are to ſubmit, and ſince they as well as others deſire to be protected, they muſt conſider that it is impoſſible for this Government (if thoſe who are under it will not give ſecurity for their Allegiance) to preſerve it ſelf or defend them in a time when there are ſo many Diviſions at home, and ſo great Dangers threatning us from abroad: They deſire to live quietly, that is to enjoy the benefit of this Government, and the neceſſary means for attaining that Quiet, is for all under the Government to be faithful to it; otherwiſe we decline the means, and yet would have the end; we refuſe the Duty, and yet expect the Reward.</p>
+            <p>
+               <pb n="5" facs="tcp:99226:4"/>
+               <hi>Secondly,</hi> It is Objected<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>That theſe Perſons have Sworn Allegiance to King</hi> James, <hi>his Lawful Heirs and Succeſſors, and declared, that no Power on Earth can Abſolve them from this Oath.</hi>
+            </p>
+            <p>We Reply: All political Writers (except ſome late Engliſh Authors) do ſuppoſe ſome Caſes where<g ref="char:EOLhyphen"/>by a King may forfeit his Dignity, and conſequent<g ref="char:EOLhyphen"/>ly his Right to our Allegiance. Now if this be the Caſe of King <hi>James,</hi> we need no abſolution, for he deveſts himſelf of his Right to Govern us, and then our Oath cannot oblige us: And theſe Men can<g ref="char:EOLhyphen"/>not deny his Breach of his Promiſes and Oath, his Arbitrary Suſpenſion of Laws, his manifeſt Endea<g ref="char:EOLhyphen"/>vours to ſubvert our Religion, and change the whole Conſtitution of our Government, his open Invaſion of Liberty and Property; and his firſt voluntary de<g ref="char:EOLhyphen"/>ſerting us in a time of danger, leaving us with<g ref="char:EOLhyphen"/>out Government or Means of Defence: Now one of theſe by ſome Writers is affirmed to be a For<g ref="char:EOLhyphen"/>feiture, but all of them concurring as in our Caſe<g ref="char:punc">▪</g> are abundantly ſufficient to take off the Obligation of that Oath. And we cannot but think many of thoſe who are now diſſatisfyed, did once believe they were not oblig'd by that Oath of Allegiance to King <hi>James,</hi> becauſe they did not diſcover thoſe Plots againſt him, which they could not but have ſome notice of, and were ſo far from giving him Aſſiſtance, that they ſtood by and let him ſink, yea, they ſeiz'd on the Government upon his withdrawing,
+<pb n="6" facs="tcp:99226:5"/>and offered the Adminiſtration of it to his Enemy, without his Conſent, and againſt his Will: They alſo obeyed the Prince's Orders, and by his Sum<g ref="char:EOLhyphen"/>mons, came and ſate in a Convention, not Called by King <hi>James</hi> his Authority, and all this while were well pleaſed, yet theſe and many other Acts are directly contrary to that Oath, ſo that we muſt either charitably hope they believed that Oath was not obligatory, or ſuppoſe them wittingly guilty of ſuch Perjury, as their Integrity and Characters for<g ref="char:EOLhyphen"/>bids us to ſuſpect them for: If theſe Scruples how<g ref="char:EOLhyphen"/>ever had been moved ſoone, they might have been ſerviceable to King <hi>James</hi> his Intereſt, of which they ſeem now very tender; but as they come too late to ſerve him, ſo they can now be of no uſe, but to hinder our Settlement, and encreaſe our Diviſions: The publiſhing them now being as great diſſervice to this Government, as the concealing them before was to that of the King withdrawn: And ſince Conſcience in Wiſe Men; is alwayes Uniform, this unſeaſonable Niceneſs is by their Adverſaries thought to be the effect rather of Paſſion, than ten<g ref="char:EOLhyphen"/>der Conſcience; But allowing that Cenſure to be unjuſt, we will ſuppoſe their Oath obliged them to defend King <hi>James</hi> his Title, and his Perſon, while he was here, which few then endeavoured to do; yet it will not follow, that therefore It obliges them now to ſtand by him when he hath deſerted them, when his Perſon is withdrawn, his Power bro<g ref="char:EOLhyphen"/>ken, and his Government in Fact diſſolv'd; ſince a Souldier who hath ſworn, Allegiance to his own Prince, when the Army is routed, may take Quar<g ref="char:EOLhyphen"/>ter from his Enemy, and bear Faith to him that pre<g ref="char:EOLhyphen"/>ſerves
+<pb n="7" facs="tcp:99226:5"/>him without any breach of his former Oath. And I cannot but wiſh theſe Gentlemen would be ſparing however of urging the obligation of their Oath to King <hi>James,</hi> becauſe that makes it more neceſſary for the preſent Government to in<g ref="char:EOLhyphen"/>ſiſt upon a new Security for their Allegiance, leſt upon any opportunity they ſhould ſo far purſue their ſuppoſed Duty as to joyn with King <hi>James</hi> to the Ruine of this King.</p>
+            <p>
+               <hi>Thirdly,</hi> They Affirm:</p>
+            <p>
+               <hi>They will give all imaginable aſſurance to live Peaceably under the Government of the preſent KING and QUEEN, and this they hope may be ſufficient.</hi>
+            </p>
+            <p>'Tis Replied, Though it be not doubted but the beſt of theſe ſcrupulous perſons would live peace<g ref="char:EOLhyphen"/>ably, yet if the example ſhould ſpread, it cannot be hoped that all who pretend the like ſcruple will imitate them in their ſubmiſſion and integrity, and if the Government ſhall need a conſiderable actual aſſiſtance, peaceable nutrality is not ſufficient; in ſuch a caſe not to aſſiſt the Government is to ſub<g ref="char:EOLhyphen"/>vert it: But to look more narrowly into this offer of aſſurance, to live peaceably, it is not eaſy to ap<g ref="char:EOLhyphen"/>prehend how ſuch as believe themſelves to be ſtill obliged by their Allegiance to King <hi>James,</hi> can give ſecurity to live peaceably under this KING and QUEEN, ſince they take themſelves bound to aſſiſt King <hi>James,</hi> and Defend his Title as ſoon as they have opportunity; So that when the preſent
+<pb n="8" facs="tcp:99226:6"/>Governors ſhall ſtand in moſt need of their help, they muſt fail them; yea and oppoſe them, and there<g ref="char:EOLhyphen"/>fore this is a promiſe which ere long they may be<g ref="char:EOLhyphen"/>lieve themſelves bound in Conſcience to break; and ſo it is no ſecurity to King <hi>William,</hi> &amp;c. but a meer artifice to delude them, a promiſe which may very ſhortly contradict their former Oath, and therefore they cannot in Honour offer it, nor the Government in Pru<g ref="char:EOLhyphen"/>dence accept it as a Security or Aſſurance. And if they do intend to aſſiſt King <hi>James</hi> upon the firſt opportu<g ref="char:EOLhyphen"/>nity, they ought not to make this promiſe; if they do not, then they actually pay Allegiance to the preſent King, and therefore there is no reaſon why they may not ſwear they will bear Faith and true Allegiance, who in a caſe of Danger reſolve to keep that Oath. And when we conſider the brevity and modeſty of this New Oath, which determines not the New Kings Title to the Crown to be ſtrictly Legal, but only ſuppo<g ref="char:EOLhyphen"/>ſes him King <hi>de Facto,</hi> and obliges Men to ſwear they will be in no Plots againſt him, but obey him ſo far as by LAW they are bound. We ſhall find very little juſt ground of refuſing to take it to him who hath Delivered them, and will Defend them; for whatever we honeſtly intend to do, we may ſwear (when Authority requires it) we will do that, eſpecially when the conſequence and example of our refuſal will create Faction at preſent, and does tend to the Ruin of our Nation hereafter.</p>
+            <p>Finally, they Alledge:</p>
+            <p>
+               <hi>That ſome Men now at the Helm, deſign to Alter the Eſtabliſhed Government in Church and
+<pb n="9" facs="tcp:99226:6"/>State, to which they cannot Comply, and will ra<g ref="char:EOLhyphen"/>ther ſuffer for oppoſing ſuch Attempts, than ſin by promoting them.</hi>
+            </p>
+            <p>We Anſwer, That if we grant there are ſome ſuch in our publick Counſels, their number is not able to ballance thoſe of better Principles, as many late experiments have declared: However, Nothing contributes more to the accompliſhment of theſe evil Deſigns, than for ſo many of our Principal Friends in both Houſes, who love the Monarchy and the Church, to deſert their Stations in ſo cri<g ref="char:EOLhyphen"/>tical a juncture; by this we loſe their Advice and Votes in our publick Counſels, and the ad<g ref="char:EOLhyphen"/>verſe party gains both ſtrength and advantage by their abſence: Nor will they omit to improve this occaſion by repreſenting them as dangerous and diſ<g ref="char:EOLhyphen"/>affected to the preſent Government, which in its own Defence will think it neceſſary to encourage thoſe who will more readily aſſiſt it, which may be juſtly feared will end in giving a greater Liberty to thoſe who diſſent from us, than is conſiſtent with our ſafety. Wherefore inſtead of complaining at the growing Intereſt of others, and our own ſeem<g ref="char:EOLhyphen"/>ing to decline; we ſhould conſider whether this be not neceſſity rather than choice in our Governors; and if our Stifneſs and Non-compliance drive them upon that neceſſity, we muſt not accuſe others for the natural and neceſſary conſequences of our own actions. 'Tis evident, the Principles of the Church of <hi>England,</hi> though never ſo moderatly Stated, are more ſuitable to the Intereſt of this Monarchy, than
+<pb n="10" facs="tcp:99226:7"/>thoſe of any other Party; ſo that if the Members of this Church would unanimouſly comply with the preſent Settlement, none would have ſo great Favour as theſe: Others have been promiſed Eaſe and Liberty, and on the account of the common <hi>Protestant</hi> Intereſt they may juſtly expect it; but if our diſſatisfactions hinder not, the Church may ſtill flouriſh, and the Monarchy be ſafe, which can<g ref="char:EOLhyphen"/>not be ſuppoſed to ſlight its beſt Friends, or ſeek its own Deſtruction; ſo that our compliance will not only ſecure us againſt the Fears of any dange<g ref="char:EOLhyphen"/>rous Alterations, but keep thoſe who wiſh us well in ſuch poſts, that they may have the conduct of ſuch condeſcentions as ought to be granted in this jun<g ref="char:EOLhyphen"/>cture. In a Word, if it be in theſe Mens opinion a Sin to promote the Deſigns of evil principl'd Men, that non compliance which promotes them is the very crime they are affraid off: And thoſe ſuffer<g ref="char:EOLhyphen"/>ings which they ſeem to covet, will be neither for their Honour, nor the Churches benefit; nor can they ſuffer in this Cauſe ſingle, but the poor Church will ſuffer not only with, but perhaps for them; to be an occaſion of which woful conſequence will ſcarce by Wiſe Men be accounted Meritorious.</p>
+            <div type="conclusion">
+               <head>To Conclude.</head>
+               <p>EIther Men do well to take this Oath, or they did very ill who contributed ſo much toward the preſent Settlement; theſe later Acts are done in de<g ref="char:EOLhyphen"/>fence of the former, and if we had been more ear<g ref="char:EOLhyphen"/>ly ſcrupulous, things had not gon thus far. However,
+<pb n="11" facs="tcp:99226:7"/>if we think the preſent methods were either ſtrict<g ref="char:EOLhyphen"/>ly lawful, or abſolutely neceſſary, we may ſafely comply with them; and though we do judge them not exactly regular, yet we may rather wonder (in ſo great and ſtrange a Revolution, and under ſo Dire a neceſſity of a ſpeedy Settlement) things are not more amiſs, than complain of ſome few deviations from ancient rules and uſuages: This juncture could not bear nice and accurate proceedings; but if we all Unite, a little time will bring all things into the former current: Extraordinary Caſes, ſuch as this was, muſt have extraordinary Cures; and that neceſſity which drives us a little out of the Road, excuſes us for ſo doing; or however, from any guilt by ſub<g ref="char:EOLhyphen"/>mitting to that which is done by others. It was generally agreed in our publick Council, that a <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> Succeſſor would be dangerous and deſtructive to this Government; and is not a <hi>Popiſh</hi> King ſo alſo? And then, is not paying allegiance to him the means to effect that deſtruction? Can our Reli<g ref="char:EOLhyphen"/>gion bind us to aſſiſt him whoſe main end was and will be to extirpate it? Or can our Conſcience oblige us to oppoſe him who comes to reſcue and ſecure that which we believe in our very Conſci<g ref="char:EOLhyphen"/>ences to be God's Holy Truth? That ſmall altera<g ref="char:EOLhyphen"/>tion in the Government is but meerly temporary, but the conſequences of not ſubmitting to it, will be as laſting as they are diſmal. We have brought all the <hi>Proteſtants</hi> of the Royal Family into extream danger; and if we deſert them now, we give them and all our hopes under God together into the hands of ſuch as will deſtroy them. We pretend to fear <hi>Popery</hi> and <hi>Fanaticiſm,</hi> yet ſome of us take
+<pb n="12" facs="tcp:99226:8"/>the ready way to let in one or both of theſe upon us. Nothing but our Union can prevent theſe miſ<g ref="char:EOLhyphen"/>chiefs, and nothing promotes both thoſe Intereſts more effectually than our Diviſions: 'Tis certain, thoſe who are of our Church have for the main the ſame principles and the ſame reaſon to deſire its welfare, yet very many of great Honour and Prudence, and of Eminent Piety and Integrity, do hold it lawful to take theſe Oaths. And ſuch as differ from this opinion cannot prove it unlawful; therefore methinks a little humility might teach us to yield up a diſputable point for the ſafety of our Religion and Country, eſpecially when the ſcandal of our differing is ſo notorious, and the conſequences of it ſo fatal to the whole Community. We ſee the late King hath done more than the generality of Caſuiſts think is neceſſary to a Forfeiture of his right to our Allegiance. And we know he can ne<g ref="char:EOLhyphen"/>ver be actual King here, but by an abſolute Con<g ref="char:EOLhyphen"/>queſt, which will be to our utter Ruin; And do we dote upon that Allegiance to him, which his own Acts have both freed us from, and rendred as de<g ref="char:EOLhyphen"/>ſtructive as it is unpracticable? Shall we in this Age expect a Miracle to preſerve us from that mi<g ref="char:EOLhyphen"/>ſery from which God hath already once ſaved us, when we wilfully run a ſecond time into it? Have we not now (as <hi>Proteſtants</hi> generally believe) the next in Succeſſion on the Throne, and by her con<g ref="char:EOLhyphen"/>ſent a fit and able Perſon joyned in the Royal Dig<g ref="char:EOLhyphen"/>nity, who aims at nothing more than the ſafety of Religion, and the good of the whole Nation; and ſhall we Ruin all his Glorious Deſigns by denying him that Allegiance which our Laws ſay is due to
+<pb n="13" facs="tcp:99226:8"/>every King <hi>de Facto?</hi> Can we deſire the benefit of his Protection, and the Priviledges of Subjects, and not pay him that Duty and Service which his Dignity requires, and his ſingular Merit deſerves? Let us but ſeriouſly reſolve to lay aſide all pee<g ref="char:EOLhyphen"/>viſhneſs and pride, and that eſteem we are ſo apt to have for our own notions: And then I doubt not but it will appear to be both our Duty and our Intereſt to take this Oath, to be lawful, reaſonable and neceſſary, as well to promiſe as to Pay our Al<g ref="char:EOLhyphen"/>legiance to our preſent KING and QUEEN; under whom if their Subjects do agree, they can<g ref="char:EOLhyphen"/>not but enjoy all the Temporal Happineſs they can expect or deſire; and may certainly eſcape all thoſe dangers to which they were ſo lately expoſed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
